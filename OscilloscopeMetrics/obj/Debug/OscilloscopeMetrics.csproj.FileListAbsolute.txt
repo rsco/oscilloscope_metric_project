@@ -1,0 +1,8 @@
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\bin\Debug\OscilloscopeMetrics.exe.config
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\bin\Debug\OscilloscopeMetrics.exe
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\bin\Debug\OscilloscopeMetrics.pdb
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\obj\Debug\OscilloscopeMetrics.csprojResolveAssemblyReference.cache
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\obj\Debug\OscilloscopeMetrics.Properties.Resources.resources
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\obj\Debug\OscilloscopeMetrics.csproj.GenerateResource.Cache
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\obj\Debug\OscilloscopeMetrics.exe
+C:\repo\OscilloscopeMetrics\OscilloscopeMetrics\obj\Debug\OscilloscopeMetrics.pdb
